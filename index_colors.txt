@@ -1,7 +1,6 @@
-index data 09-50-PM
+index of colors
 --colors--
-red
-green
-yellow
 blue
+green
+red
 --colors--
